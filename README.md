@@ -2,7 +2,7 @@
 
 # Building a business website for cosmetics with chatbot integration
 ### Technology used:
- + Frontend: HTML, CSS, Javascript
+ + Frontend: HTML, CSS, Javascript, Bootstrap
  + Backend: PHP (Laravel Framework)
  + Database: MySQL
 ### Description of main functions:
